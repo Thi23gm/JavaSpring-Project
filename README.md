@@ -10,9 +10,15 @@ Este repositório contém um projeto de backend em Java utilizando o framework S
 - API Rest
 - DTO (Data Transfer Object)
 
-# Funcionalidades
+# Funcionalidades Principais
 
-O projeto possui as seguintes funcionalidades principais:
+- Cadastro de jogos: Os usuários podem cadastrar jogos na lista, fornecendo informações como título, gênero, descrição, entre outras informações relevantes.
+
+- Separar por gêneros: Os jogos são organizados em gêneros, permitindo que os usuários visualizem os jogos agrupados de acordo com suas preferências. Dessa forma, é possível separar jogos de ação, aventura, estratégia, entre outros gêneros.
+
+- Alterar a posição dos jogos: Os usuários têm a capacidade de modificar a posição dos jogos na lista. Isso permite que eles personalizem a ordem de exibição dos jogos de acordo com suas preferências individuais.
+
+O projeto de backend é desenvolvido para criar uma lista de jogos, permitindo a separação por gêneros e fornecendo a funcionalidade de alteração de posição dos jogos de acordo com a preferência do usuário.
 
 # Arquitetura
 A arquitetura do projeto é baseada no seguinte fluxo de dados:
